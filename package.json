@@ -4,7 +4,7 @@
   "description": "Desafio prático: TDD com JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tests/findCrush.js"
+    "test": "mocha tests/findCrushList.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Lucas-Fernandes-Ramos/tdd-javascript#readme",
   "devDependencies": {
-    "mocha": "^7.1.2",
+    "mocha": "^6.0.2",
     "should": "^13.2.3"
   }
 }
